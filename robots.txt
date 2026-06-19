@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abcriotivelumxyo.github.io/ssl-portal-hth-com/sitemap.xml
